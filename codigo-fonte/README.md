@@ -1,11 +1,7 @@
 # Instruções de utilização
 
-## Instalação do Site
+Para rodar o código...
+
+## Instalação do Site/Software/Solução
 
 O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
-
-## Histórico de versões
-
-### [0.1.0] - DD/MM/AAAA
-#### Adicionado
-- Adicionado ...

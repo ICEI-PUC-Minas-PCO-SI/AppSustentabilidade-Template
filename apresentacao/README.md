@@ -1,3 +1,3 @@
-# Apresentação da Solução
+# Relatório final do projeto
 
-Faça uma apresentação de um resumo de todos o processo de desenvolvimento e no final apresente a solução desenvolvida, usando um pequeno vídeo.
+ Inclua o relatório final do projeto (a partir das atividades realizadas) e apresente a solução desenvolvida, usando um pequeno vídeo.
